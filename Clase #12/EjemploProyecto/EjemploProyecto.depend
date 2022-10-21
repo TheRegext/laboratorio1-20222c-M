@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1666367048 source:e:\codeblcoks\ejemploproyecto\funciones.cpp
+	<iostream>
+	"funciones.h"
+	"dados.h"
+
+1666365974 e:\codeblcoks\ejemploproyecto\funciones.h
+
+1666367386 source:e:\codeblcoks\ejemploproyecto\main.cpp
+	<iostream>
+	<ctime>
+	"funciones.h"
+
+1666366891 source:e:\codeblcoks\ejemploproyecto\dados.cpp
+	<iostream>
+	"dados.h"
+
+1666366941 e:\codeblcoks\ejemploproyecto\dados.h
+
