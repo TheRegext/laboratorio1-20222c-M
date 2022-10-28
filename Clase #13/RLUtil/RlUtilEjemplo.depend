@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1666971911 source:e:\codeblcoks\rlutilejemplo\main.cpp
+	<iostream>
+	"rlutil.h"
+	"gui.h"
+
+1666967611 e:\codeblcoks\rlutilejemplo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1666971960 e:\codeblcoks\rlutilejemplo\gui.h
+
+1666972067 source:e:\codeblcoks\rlutilejemplo\gui.cpp
+	<iostream>
+	"rlutil.h"
+	"gui.h"
+
